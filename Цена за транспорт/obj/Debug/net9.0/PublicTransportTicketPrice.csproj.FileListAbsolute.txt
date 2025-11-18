@@ -1,0 +1,14 @@
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.AssemblyInfoInputs.cache
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.AssemblyInfo.cs
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\bin\Debug\net9.0\PublicTransportTicketPrice.exe
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\bin\Debug\net9.0\PublicTransportTicketPrice.deps.json
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\bin\Debug\net9.0\PublicTransportTicketPrice.runtimeconfig.json
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\bin\Debug\net9.0\PublicTransportTicketPrice.dll
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\bin\Debug\net9.0\PublicTransportTicketPrice.pdb
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.dll
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\refint\PublicTransportTicketPrice.dll
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.pdb
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\PublicTransportTicketPrice.genruntimeconfig.cache
+C:\Users\Venci\OneDrive\Работен плот\domashno mvc\Цена за транспорт\obj\Debug\net9.0\ref\PublicTransportTicketPrice.dll
