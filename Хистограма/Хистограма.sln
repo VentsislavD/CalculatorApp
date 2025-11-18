@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Хистограма", "Хистограма\Хистограма.csproj", "{669AA5E9-2315-4C2F-9EE5-C6EB26199796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669AA5E9-2315-4C2F-9EE5-C6EB26199796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669AA5E9-2315-4C2F-9EE5-C6EB26199796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669AA5E9-2315-4C2F-9EE5-C6EB26199796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669AA5E9-2315-4C2F-9EE5-C6EB26199796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C7F402-F866-4EA4-9033-A3AB0AE32675}
+	EndGlobalSection
+EndGlobal
