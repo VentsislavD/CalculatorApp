@@ -8,8 +8,8 @@ namespace ConsoleApp1
 {
     public class TileRepairController
     {
-        private TileRepairData data;
-        private Display display;
+        public TileRepairData data;
+        public Display display;
 
         public TileRepairController()
         {
@@ -28,7 +28,7 @@ namespace ConsoleApp1
             CalculateTilesAndTime();
         }
 
-        private void CalculateTilesAndTime()
+        public void CalculateTilesAndTime()
         {
             double areaTotal = data.N * data.N;
             double areaBench = data.M * data.O;
