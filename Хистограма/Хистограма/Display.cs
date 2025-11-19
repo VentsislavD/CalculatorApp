@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Хистограма
+namespace Histograma
+
 {
     public class Display
     {

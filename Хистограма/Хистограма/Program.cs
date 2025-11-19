@@ -1,5 +1,5 @@
-﻿namespace Хистограма
-{
+﻿namespace Histograma
+{ 
     internal class Program
     {
         static void Main(string[] args)
