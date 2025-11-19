@@ -27,7 +27,7 @@ namespace ConsoleApp6
             CalculatePoolStatus();
         }
 
-        private void CalculatePoolStatus()
+        public void CalculatePoolStatus()
         {
             double waterFromP1 = data.P1 * data.H;
             double waterFromP2 = data.P2 * data.H;
