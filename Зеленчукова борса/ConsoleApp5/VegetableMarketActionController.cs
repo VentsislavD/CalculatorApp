@@ -28,7 +28,7 @@ namespace ConsoleApp5
             display.ShowResult(revenueEuro);
         }
 
-        private double CalculateRevenueInEuro()
+        public double CalculateRevenueInEuro()
         {
             double totalLeva = data.VegetablePrice * data.VegetableKg + data.FruitPrice * data.FruitKg;
             return totalLeva / 1.94;
