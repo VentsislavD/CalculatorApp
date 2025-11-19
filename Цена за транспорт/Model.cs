@@ -9,6 +9,6 @@ namespace PublicTransportTicketPrice
         class TransportData
         {
             public int Kilometers { get; set; }
-            public string DayPeriod { get; set; } // "day" or "night"
+            public string DayPeriod { get; set; } 
         }   
 }
