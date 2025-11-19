@@ -8,8 +8,8 @@ namespace ConsoleApp1
 {
     public class DivisionActionController
     {
-        private DivisionData data;
-        private Display display;
+        public DivisionData data;
+       public Display display;
 
         public DivisionActionController()
         {
